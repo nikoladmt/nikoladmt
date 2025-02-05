@@ -1,10 +1,10 @@
 ### Hi there, I'm Nikola 😍👋
 
-- 🔭 I’m currently an **Computer Science** undergraduate at **Uva Wellassa University of Sri Lanka**
+- 🔭 I’m a **Software Engineer** who has strong experience in both **Mobile and Web** fields for over 10 years
 - 🌱 I’m currently learning **Python** related stuffs and **Machine learning**
 - 👯 I’m looking to collaborate more on open source projects built with to **React, Angular, NodeJs, React Native, Flutter** and it doesn't matter what the database concept is...
 - 🥰 Now I'm in a strong relationship with **React, Node, React Native**💻💖
-- 💻 There are plenty of of projects I've completed in **MERN stack** and **MEAN stack** in adition to the mobile application development in **React Native**
+- 💻 There are plenty of of projects I've completed in **MERN stack** and **MEAN stack** in adition to the mobile application development in **React Native, Flutter, Swift and Kotlin**
 - 😎 You can check my repositories at my account
 - 🤔 I’m looking for help with **Statistics,** cause I'm currently studying **Machine Learning**
 - 💬 Ask me about ... just contact me😉
