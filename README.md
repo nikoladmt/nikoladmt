@@ -10,6 +10,11 @@
 - 💬 Ask me about ... just contact me😉
 - 📫 You can contact me at nikoladimitri0421@gmail.com
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikoladmt&show_icons=true&theme=algolia&line_height=30" />
+  <img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaellee0221&count_private=true&theme=algolia">
+</p>
+
 
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
